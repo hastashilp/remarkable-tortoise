@@ -1,6 +1,6 @@
 ---
 title: About HastaShilp
-subtitle: '''HastaShilp'' is '
+subtitle: '''HastaShilp'' is'
 image: images/about.jpg
 image_alt: A man taking a picture
 template: page
