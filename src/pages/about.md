@@ -1,6 +1,6 @@
 ---
 title: About HastaShilp
-subtitle: "hand made products are\_authentic\_and\_alive\_expression of an\_artist's creative craft.things are alive and we at Hastashilp.in believe that it is a tradition "
+subtitle: "hand made products are\_authentic\_and\_alive\_expression of an\_artist's creative craft.things are alive and we at Hastashilp.in believe that it is a tradition or heritage worth keeping al"
 image_alt: ''
 template: page
 ---
