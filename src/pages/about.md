@@ -1,6 +1,6 @@
 ---
 title: About HastaShilp
-subtitle: '''HastaShilp'' is Sanskrit for handmade. '
+subtitle: ''
 image_alt: ''
 template: page
 ---
