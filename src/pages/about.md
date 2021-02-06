@@ -1,6 +1,6 @@
 ---
 title: About HastaShilp
-subtitle: ''
+subtitle: "hand made products are\_authentic\_and\_alive\_expression of an\_artist's creative craft."
 image_alt: ''
 template: page
 ---
