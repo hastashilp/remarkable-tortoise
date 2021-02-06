@@ -5,10 +5,15 @@ image_alt: ''
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> Which of the logos shared earlier will be best for a brand that's looking to position itself as a authentically hand made products brand.
+> Why hand made ?
+> Because
+> Hand made products are authentic and alive expression of an artist's creative craft.
+> Mass production has resulted in tons of waste generation and I want my child to witness the world as I saw it when I was born, clean, non-toxic and less waste.
+> Beauty in that which is temporary or imperfect. Things that come off of an assembly line, for example, are perfect, but things made by hand, like the glaze on a ceramic bowl, are imperfect. It is their imperfections that give them their beauty.
+> The same is true for people. It is the combination of all of our imperfections that make us vulnerable, unique and beautiful. Let's make products come alive! #Atmanirbharbharat #karigar #kalatmak
+>
+>
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+In
