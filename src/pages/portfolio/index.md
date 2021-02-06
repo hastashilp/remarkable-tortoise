@@ -1,6 +1,6 @@
 ---
 title: Our Curated Collection
-subtitle: ''
+subtitle: Art that's made by hand
 layout_style: mosaic
 template: portfolio
 ---
