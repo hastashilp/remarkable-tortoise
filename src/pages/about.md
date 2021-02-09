@@ -1,6 +1,6 @@
 ---
 title: About HastaShilp
-subtitle: "We at Hastashilp believe that hand made arts are\_authentic\_and\_alive\_expression of an\_artist's creative spirit and it's a tradition worth keeping alive."
+subtitle: "We at Hastashilp believe that hand made articrafts are\_authentic\_and\_alive. expression of an\_artist's creative spirit and it's a tradition worth keeping alive."
 image_alt: ''
 template: page
 ---
