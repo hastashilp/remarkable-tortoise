@@ -10,8 +10,8 @@ template: page
 >
 > Beauty in that which is temporary or imperfect. Things that come off of an assembly line are perfect, but things made by hand, like the glaze on a ceramic bowl, are imperfect. It is their imperfections that give them their beauty.
 >
-> The same is true for people. It is the combination of all of our imperfections that make us vulnerable, unique and beautiful. Let's make products come alive! #Atmanirbharbharat #karigar #kalatmak.
+> The same is true for people. It is the combination of all of our imperfections that make us vulnerable, unique and beautiful. Let's make products come alive! #kalatmak #Atmanirbharbharat #karigar.
 >
 > A tradition worth saving.
 >
-> Hastashilp was born
+> Hastashilp was born.
